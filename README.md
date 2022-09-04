@@ -1,5 +1,3 @@
-## **Warning: You are on the "start" branch. The solution is on the "complete" branch.**
-
 ### "AndroidDataAndViewBinding" example project by:
 
 ##       Roy Watson
@@ -12,7 +10,7 @@ This is a simple example that strips out a lot of generally accepted architectur
 ##### Branches:
 
 - "start" branch is the raw templated project created by Android Studio Chipmunk | 2021.2.1 Patch 2. This is supplied for comparison purposes.
-- "complete" branch is the example/tutorial application where the "magic"😀 happens.
+- "complete" branch is the example/tutorial application where the "magic"😀 happens. *This is the current branch*
 
 ##### This example demonstrates/teaches:
 
